@@ -1,0 +1,25 @@
+.form-check {
+  display: flex;
+  flex-direction: row;
+}
+
+.form-check .form-check-input {
+  padding: 0 5rem;
+}
+
+#signature1 {
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+}
+
+#signature2 {
+  width: 100%;
+  height: auto;
+  border: 1px solid black;
+}
+
+.sig-area {
+  height: 0;
+  width: 0;
+}
